@@ -13,6 +13,6 @@ if __name__=="__main__":
     wuwuwu.print_letter()
     sususu.print_letter()
     eueueu.print_letter()
-    gugugu.print_letter()
+    gugugu.print_letter()gugugu.print_letter()
 
 
